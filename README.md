@@ -21,3 +21,5 @@ The Chrome extension performs the following tasks:
 Check out the demo video here:
 
 ![LinkedIn AI Reply Chrome Extension](./video_recording.mp4)
+
+![video](https://www.awesomescreenshot.com/video/25470877?key=065cca952df8370d0233cd7415eb3828)
